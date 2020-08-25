@@ -1,0 +1,47 @@
+body{
+  background-image: url("https://www.newcomersjobcentre.ca/wp-content/uploads/company_logos/2018/03/login-page-1.jpg");
+}
+.container{
+  padding: 28px;
+  width: 400px;
+  text-align: center;
+  margin: auto;
+  margin-top: 90px;
+  height: 400px;
+}
+.container img{
+  height: 200px;
+}
+
+.username input{
+  border-radius: 15px;
+  width: 280px;
+  height: 20px;
+  padding: 5px;
+  font-family: 'Josefin Sans', sans-serif;
+}
+.username input:hover{
+  
+}
+
+.password input{
+  border-radius: 15px;
+  width: 280px;
+  height: 20px;
+  padding: 5px;
+  font-family: 'Josefin Sans', sans-serif;
+}
+button{
+  border-radius: 15px;
+  padding: 8px;
+  width: 295px;
+  background-color: #FA8072;
+  margin: 15px;
+}
+a{
+  margin-left: 100px;
+  color: white;
+}
+span{
+  color: white;
+}
